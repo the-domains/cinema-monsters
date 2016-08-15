@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[cinema monsters]]></title>
+        <description><![CDATA[cinema monsters]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Aug 2016 16:45:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Urban Symmetry]]></title>
+            <description><![CDATA[<article><h1>Urban Symmetry</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff2f22c8b4189c4c1a608f3b00a7e49071e73c0c.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Xziiv3sodcY</link>
+            <guid isPermaLink="false">5c38d3b9-621a-4806-a1cb-0e8e25a673a4</guid>
+            <pubDate>Mon, 15 Aug 2016 16:45:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
